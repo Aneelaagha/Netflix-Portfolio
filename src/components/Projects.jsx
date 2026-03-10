@@ -1,6 +1,6 @@
 import devsyncLogo from "../assets/devsync-logo.png";
 import paperlyLogo from "../assets/paperly-logo.png";
-import wisewalletLogo from "../assets/Wisewallet.png";
+import wisewalletLogo from "../assets/WiseWallet.png";
 import codementorLogo from "../assets/Codementor.png";
 import { useState } from "react";
 import { desc } from "framer-motion/m";
